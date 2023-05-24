@@ -1,6 +1,6 @@
 # To-Do-List
 
-<img src="src/assets/to-do-list_angular+ionic.png" width="300">
+<img src="src/assets/to-do-list_angular+ionic.png" width="450">
 
 ---
 
