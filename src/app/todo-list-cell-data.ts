@@ -1,4 +1,5 @@
 export interface TodoListCellData {
-  descriptionlabel: string
+  descriptionLabel: string
   dateDeadlineLabel: string
+  onChange?: () => void
 }

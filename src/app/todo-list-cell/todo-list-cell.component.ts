@@ -8,8 +8,8 @@ import {TodoListCellData} from "../todo-list-cell-data";
 })
 export class TodoListCellComponent  implements OnInit {
   @Input() data:TodoListCellData = {
-    descriptionlabel: "",
-    dateDeadlineLabel: ""
+    descriptionLabel: "",
+    dateDeadlineLabel: "",
   }
 
   constructor() { }
